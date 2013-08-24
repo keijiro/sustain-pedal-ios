@@ -55,6 +55,7 @@
 		0F937DCC17C8733400E12FAD /* SustainPedalTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SustainPedalTests-Info.plist"; sourceTree = "<group>"; };
 		0F937DCE17C8733400E12FAD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0F937DD017C8733400E12FAD /* SustainPedalTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SustainPedalTests.m; sourceTree = "<group>"; };
+		0FE14ED417C8B62000D515CD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +85,7 @@
 		0F937D9617C8733400E12FAD = {
 			isa = PBXGroup;
 			children = (
+				0FE14ED417C8B62000D515CD /* README.md */,
 				0F937DA817C8733400E12FAD /* SustainPedal */,
 				0F937DCA17C8733400E12FAD /* SustainPedalTests */,
 				0F937DA117C8733400E12FAD /* Frameworks */,
@@ -469,6 +471,7 @@
 				0F937DD617C8733400E12FAD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0F937DD717C8733400E12FAD /* Build configuration list for PBXNativeTarget "SustainPedalTests" */ = {
 			isa = XCConfigurationList;
@@ -477,6 +480,7 @@
 				0F937DD917C8733400E12FAD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
