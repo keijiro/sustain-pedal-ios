@@ -1,7 +1,7 @@
 sustain-pedal-ios
 =================
 
-This is an iOS app which turns iOS devices into sustain pedals.
+This is an iOS app which turns an iOS device into a sustain pedal.
 
 See [a short demo](https://vine.co/v/heDitAxudra).
 
