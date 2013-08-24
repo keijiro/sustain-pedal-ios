@@ -3,6 +3,8 @@ sustain-pedal-ios
 
 This is an iOS app which turns an iOS device into a sustain pedal.
 
+![photo](https://raw.github.com/keijiro/sustain-pedal-ios/gh-pages/photo.jpg)
+
 See [a short demo](https://vine.co/v/heDitAxudra).
 
 System Requirements
